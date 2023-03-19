@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tool Display</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="search-container">
+    <label for="search-input">Filter by tool name:</label>
+    <input type="text" id="search-box" onkeyup="filterTools()" placeholder="Enter a keyword...">
+  </div>
+
+  <div class="tools-container" id="tools-container">
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Empathy Map",
+    "link": "https://www.nngroup.com/articles/empathy-mapping/",
+    "image": "https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png",
+    "description": "Empathy maps help teams better understand their users by visualizing their thoughts, feelings, and behaviors."
+  },
+  {
+    "title": "Persona",
+    "link": "https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them",
+    "image": "https://www.interaction-design.org/images/ux-daily/56-personas-why-and-how-you-should-use-them-56-1.png",
+    "description": "Personas are fictional characters that represent the different user types that might use your product or service."
+  },
+  {
+    "title": "User Journey Map",
+    "link": "https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/",
+    "image": "https://www.smashingmagazine.com/wp-content/uploads/2015/01/01-customer-journey-map-opt.png",
+    "description": "User journey maps help teams visualize the steps that users take when interacting with a product or service."
+  },
+  {
+    "title": "Mind Map",
+    "link": "https://www.mindmeister.com/mind-mapping",
+    "image": "https://www.mindmeister.com/blog/wp-content/uploads/2019/06/mind-map-example.png",
+    "description": "Mind maps are diagrams that help teams visualize ideas and concepts and how they relate to each other."
+  },
+  {
+    "title": "SWOT Analysis",
+    "link": "https://www.mindtools.com/pages/article/newTMC_05.htm",
+    "image": "https://www.mindtools.com/media/Diagrams/SWOT-Analysis-Example-1.jpg",
+    "description": "SWOT analysis is a framework for analyzing the strengths, weaknesses, opportunities, and threats of a product or service."
+  },
+  {
+    "title": "Storyboard",
+    "link": "https://www.interaction-design.org/literature/article/storyboarding-for-a-better-user-experience",
+    "image": "https://www.interaction-design.org/images/ux-daily/56-storyboarding-for-a-better-user-experience-56-1.png",
+    "description": "Storyboards are visual representations of a product or service that help teams understand how users will interact with it."
+  },
+  {
+    "title": "Prototyping",
+    "link": "https://www.interaction-design.org/literature/article/what-is-a-prototype-and-why-make-one",
+    "image": "https://www.interaction-design.org/images/ux-daily/56-what-is-a-prototype-and-why-make-one-56-1.png",
+    "description": "Prototyping is the process of creating a preliminary version of a product or service to test and refine its design."
+  },
+  {
+    "title": "User Testing",
+    "link": "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "image": "https://www.nngroup.com/wp-content/uploads/2015/08/user-testing.jpg",
+    "description": "User testing is the process of observing users as they interact with a product or service to identify usability issues and areas for improvement."
+  },
+  {
+    "title": "Design Sprint",
+    "link": "https://www.nngroup.com/articles/design-sprint/",
+    "image": "https://www.nngroup.com/wp-content/uploads/2018/03/design-sprint.jpg",
+    "description": "Design sprints are a five-day process for solving design problems and testing new ideas."
+  }
+]
